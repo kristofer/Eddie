@@ -1,0 +1,6 @@
+framework module Eddie {
+  umbrella header "Eddie-umbrella.h"
+
+  export *
+  module * { export * }
+}

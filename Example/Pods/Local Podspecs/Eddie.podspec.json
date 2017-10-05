@@ -1,0 +1,22 @@
+{
+  "name": "Eddie",
+  "version": "0.1.0",
+  "summary": "A short description of Eddie.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Kristofer/Eddie",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kristofer": "kris@youngers.org"
+  },
+  "source": {
+    "git": "https://github.com/Kristofer/Eddie.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Eddie/Classes/**/*"
+}

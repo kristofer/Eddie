@@ -1,0 +1,6 @@
+framework module Pods_Eddie_Tests {
+  umbrella header "Pods-Eddie_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Eddie (0.1.0)
+
+DEPENDENCIES:
+  - Eddie (from `../`)
+
+EXTERNAL SOURCES:
+  Eddie:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Eddie: 07dc0dee7afa94747ef0c7a218503cbf7f229baf
+
+PODFILE CHECKSUM: 308e0130e31041a1f5156370ddd1dd4e97bcd87a
+
+COCOAPODS: 1.2.1
